@@ -1,6 +1,9 @@
 # FLASH PHOBIA
+
 Name & Surname: Waden Smith
+
 Student number: ST1047889
+
 Github link:
 
 About the project:
