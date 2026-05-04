@@ -53,8 +53,11 @@ Tap the "Restart" button if you wish to do the quiz again.
 How the interface should look:
 <img width="1028" height="511" alt="image" src="https://github.com/user-attachments/assets/42c0697f-6e27-4343-a0e8-f69d03aa699d" />
 References:
-help wit code -https://www.bing.com/ck/a?!&&p=79ab52491cbb6ad77e31fe8b0e01268720e82e0bc3be8f47e60f16cfbc749bf1JmltdHM9MTc3Nzg1MjgwMA&ptn=3&ver=2&hsh=4&fclid=2667a0fd-05cc-6cbf-2747-b4cc04726df3&psq=chat+gpt+free&u=a1aHR0cHM6Ly9jaGF0Z3B0LmNvbS8
+
+help with code -https://www.bing.com/ck/a?!&&p=79ab52491cbb6ad77e31fe8b0e01268720e82e0bc3be8f47e60f16cfbc749bf1JmltdHM9MTc3Nzg1MjgwMA&ptn=3&ver=2&hsh=4&fclid=2667a0fd-05cc-6cbf-2747-b4cc04726df3&psq=chat+gpt+free&u=a1aHR0cHM6Ly9jaGF0Z3B0LmNvbS8
+
 Help with inserting backgorund -https://youtu.be/7OvsWwbvYsM?si=EjkwHPcf64qich3g
+
 Image for background-https://logosbynick.com/mythical-creature-vector-silhouettes/
 
 
