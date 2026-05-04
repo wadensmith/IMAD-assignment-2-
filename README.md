@@ -49,3 +49,7 @@ Answer each myth/hack question by tapping the respective button.
 View your score on the score screen by tapping on the "Next" button.
 Tap the "Review" button to review all the questions and their answers.
 Tap the "Restart" button if you wish to do the quiz again.
+
+How the interface should look:
+<img width="1028" height="511" alt="image" src="https://github.com/user-attachments/assets/42c0697f-6e27-4343-a0e8-f69d03aa699d" />
+
