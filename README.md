@@ -4,7 +4,7 @@ Name & Surname: Waden Smith
 
 Student number: ST1047889
 
-Github link:
+Github link:https://github.com/wadensmith/IMAD-assignment-2-.git
 
 About the project:
 FlashPhobia is a mobile application designed for to test myths/hacks and truths through a simple and interactive mytht/hack quiz format. With an intuitive user interface and seamless navigation between four screens, this app is ideal for quick revision sessions
